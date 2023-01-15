@@ -5,6 +5,4 @@ This is an example of the repository that each team should create to submit the 
 
 * The repository must be private and as collaborators your group members, Jacob and Albert.
 
-* For each problem set create a folder.
-
-* Upload your answers of the problem set in its folder.
+* you will upload your problem sets here.
